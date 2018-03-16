@@ -1,8 +1,26 @@
 body {
-  background-color: gray;
+  background-color: lightgray;
 }
+
 img {
   float: left;
   width: 100px;
   height: 100px;
+}
+
+.important {
+  color: gray;
+
+}
+
+.unimportant {
+  color: #4dc5a1;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.aboutme {
+  font-style: italic;
+  font-weight: bolder;
+  font-family: cursive;
 }
